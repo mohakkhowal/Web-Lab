@@ -1,0 +1,65 @@
+.container
+{
+    margin: 20px;
+}
+
+.banner
+{
+    margin: 20px;
+    border-bottom: solid;
+    border-color: red;
+    padding-bottom: 30px;
+}
+
+.content
+{
+    position: absolute;
+    right: 350px;
+    top: 200px; 
+    border-left: solid green;
+    height: 39.2vw;
+    margin-top: 7px;
+    padding-left: 50px;
+}
+
+#ramaiah
+{
+    width: 150px;
+    height: 150px;
+}
+.footer
+{
+    position: absolute;
+    bottom: 10px;
+    display: block;
+    border-top: solid red;
+    width: 94.5vw;
+}
+
+#main-heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    position: absolute;
+    left: 230px;
+    top: 60px;
+}
+
+#container-heading
+{
+    border: solid red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+#container-content
+{
+    margin-top: 40px;
+}
+
+#footer-text
+{
+    font-size: 0.8rem;
+    margin-top: 2px;
+}
